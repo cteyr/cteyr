@@ -17,7 +17,6 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-28B6F6?style=for-the-badge&logo=angular&logoColor=BB5544)
 ![rxjs](https://img.shields.io/badge/RxJs-c2185b?style=for-the-badge&logo=rxjs&logoColor=c2185b)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -39,16 +38,6 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=amendezm&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=amendezm&show_icons=true&hide_border=true" alt="Alexis David's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=amendezm.amendezm" alt="visitors">
-</div>
 
 ## 🔗 Links
 
