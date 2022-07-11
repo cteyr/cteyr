@@ -17,7 +17,7 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![rxjs](https://img.shields.io/badge/RxJs-c2185b?style=for-the-badge&logo=rxjs&logoColor=c2185b)
+![react-hooks](https://img.shields.io/badge/React%20Hooks-c2185b?style=for-the-badge&logo=rxjs&logoColor=c2185b)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
