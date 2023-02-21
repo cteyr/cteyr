@@ -27,7 +27,7 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 
 
 ### Development Platform
-[![gitlab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+[![gitlab](https://img.shields.io/badge/gitlab-CA4245?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 
