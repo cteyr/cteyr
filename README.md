@@ -22,7 +22,7 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=lightblue&color=lightblue)
+![webpack](https://img.shields.io/badge/webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![api-fetch](https://img.shields.io/badge/API-FETCH-563D7C?style=for-the-badge&logo=&logoColor=white&color=indigo)
 
 ### Backend as a Service (BaaS)
