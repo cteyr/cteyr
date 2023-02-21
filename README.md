@@ -22,7 +22,6 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=f14e32)
-![api-fetch](https://img.shields.io/badge/API-FETCH-563D7C?style=for-the-badge&logo=&logoColor=white&color=indigo)
 
 
 ### Development Platform
