@@ -17,12 +17,11 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![react-hooks](https://img.shields.io/badge/React%20Hooks-c2185b?style=for-the-badge&logo=rxjs&logoColor=c2185b)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=lightblue)
+[![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 ![api-fetch](https://img.shields.io/badge/API-FETCH-563D7C?style=for-the-badge&logo=&logoColor=white&color=indigo)
 
 
