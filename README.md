@@ -26,7 +26,7 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Babel](https://img.shields.io/badge/babel-323330?style=for-the-badge&logo=babel&logoColor=#eeda7c)
 ![Npm](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=#eeda7c)
-![Api](https://img.shields.io/badge/API-<COLOR>?style=for-the-badge&logo=data:image/png;base64,base64_encoded_image_data)
+![API](https://img.shields.io/badge/API-1A2C51?style=for-the-badge&logo=data:image/png;base64,base64_encoded_image_data)
 
 
 
