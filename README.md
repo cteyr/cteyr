@@ -4,7 +4,7 @@
 
 👨‍💻 I am Carlos Tey, a **Front End Web Developer** (specialized in **React Applications**).
 
-Frontend Web Developer with more than 3 years of experience. Expert in Html, Css, Javascript, Typescript, ReactJS, Redux, Git, Github, Npm and Webpack. Strong engineering professional with an Engineering degree focused on Computer Science from the University of Holguín. Able to continually learn from senior developers. Passionate about learning new skills and eager to tackle complex problems. Expert in contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction.
+Frontend Developer with more than 3 years of experience. Skilled in building and maintaining responsive websites, ensuring a seamless user experience. Strong engineering professional with a degree in Computer Science from the University of Holguín. Adept at collaborating with senior developers and continuously learning new methodologies. Passionate about acquiring new skills and tackling complex challenges. Proficient in contributing to a highly collaborative work environment, identifying solutions, and ensuring customer satisfaction.
 
 ## 🛠️ Skills
 
