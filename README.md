@@ -28,6 +28,9 @@ Frontend Developer with more than 4 years of experience. Skilled in building and
 ![Npm](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=#eeda7c)
 ![API](https://img.shields.io/badge/API-1A2C51?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E3?style=for-the-badge&logo=axios&logoColor=white)
+![Fetch](https://img.shields.io/badge/Fetch-00CFFF?style=for-the-badge&logo=fetch&logoColor=white)
+
 
 
 
