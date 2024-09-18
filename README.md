@@ -27,6 +27,9 @@ Frontend Developer with more than 4 years of experience. Skilled in building and
 ![Babel](https://img.shields.io/badge/babel-323330?style=for-the-badge&logo=babel&logoColor=#eeda7c)
 ![Npm](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=#eeda7c)
 ![API](https://img.shields.io/badge/API-1A2C51?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 
 
